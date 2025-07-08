@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Al Bochi</h1>
 <h3 align="center">Partner Cloud Security Compliance at Saillent</h3>
 
-- I'm currently working on **AI-Cloud Compliance Control Framework (AICCF)**
-
-- 🌱 I’m currently learning **how to make the perfect pasta at home**
-
-- 👯 I’m looking to collaborate on **Executive-level AI risk dashboards**
-
-- 🤝 I’m looking for help with **Learning French**
-
-- 📝 I regularly write articles on [https://medium.com/@albochi](https://medium.com/@albochi)
 
 - 📫 How to reach me **albochi@saillent.com**
 
