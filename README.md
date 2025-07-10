@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Al Bochi</h1>
-<h3 align="center">Partner Cloud Security Compliance at Saillent</h3>
+<h3 align="center">Partner, Cloud Security Compliance at Saillent</h3>
 
+<p align="center">
+  <i>Explore recent enterprise-grade compliance implementations in my pinned repositories below ↓</i>
+</p>
 
+- 🔭 **Featured Work**: PIPEDA/PBMM compliance frameworks, SOC2/HIPAA automation, and cloud security architectures  
 - 📫 How to reach me **albochi@saillent.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saillentcanada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saillentcanada" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saillent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saillent" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/saillentcanada/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saillentcanada/?hl=en" height="30" width="40" /></a>
 <a href="https://medium.com/@albochi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@albochi" height="30" width="40" /></a>
 </p>
 
