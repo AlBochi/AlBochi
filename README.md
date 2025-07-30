@@ -7,10 +7,10 @@
 
 ---
 
-- 🚀 I match **top tech talent** with fast-moving teams — startups, scaleups, and confidential Fortune 500 clients  
-- 🧠 Hiring across: AI • Security • DevOps • Product • Data • Engineering  
-- 🎯 Worked with companies building at the edge of software, infrastructure, and AI  
-- 📨 Connect → albochi@saillent.com  
+-  I match **top tech talent** with fast-moving teams — startups, scaleups, and confidential Fortune 500 clients  
+-  Hiring across: AI • Security • DevOps • Product • Data • Engineering  
+-  Worked with companies building at the edge of software, infrastructure, and AI  
+-  Connect → albochi@saillent.com  
 
 ---
 
