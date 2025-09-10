@@ -2,7 +2,7 @@
 -  Connect → albochi@saillent.com
 
 📢 **Currently hiring for**:  
-> A stealth client listed in the **Top 100 AI Companies** in the world — multiple roles across Engineering, Product, and Security.  
+> A stealth client listed in the **Top 100 AI Companies** in the world — multiple roles across Engineering, Web3, and Security.  
 > 🔒 Confidential. Tech-first. Remote-flex. Ping me.
 
 ---
