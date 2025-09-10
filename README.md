@@ -1,18 +1,5 @@
-<h1 align="center">Hey 👋 I’m Al Bochi</h1>
-<h3 align="center">Talent Partner @ Saillent | We back high-performers in tech</h3>
-
-<p align="center"><i>I’m here to hunt for A+ tech nerds building the future.</i></p>
-
-<p align="center"><i>We help engineers, builders, and creatives land where they grow best.</i></p>
-
----
-
--  I match **top tech talent** with fast-moving teams — startups, scaleups, and confidential Fortune 500 clients  
--  Hiring across: AI • Security • DevOps • Product • Data • Engineering  
--  Worked with companies building at the edge of software, infrastructure, and AI  
--  Connect → albochi@saillent.com  
-
----
+<h1 align="center">Hey 👋 I’m Al Bochi</h1
+-  Connect → albochi@saillent.com
 
 📢 **Currently hiring for**:  
 > A stealth client listed in the **Top 100 AI Companies** in the world — multiple roles across Engineering, Product, and Security.  
