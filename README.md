@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I’m Al Bochi</h1
+<h1 align="center">Hey 👋 I’m Yaman Al Bochi</h1
 -  Connect → albochi@saillent.com
 
 📢 **Currently hiring for**:  
