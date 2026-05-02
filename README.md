@@ -1,27 +1,18 @@
-<h1 align="center">Hey 👋 I’m Yaman Al Bochi</h1
--  Connect → albochi@saillent.com
+# 👋 Hey, I'm Yaman Al Bochi
 
-📢 **Currently hiring for**:  
-> 🔒 Confidential. Tech-first. Remote-flex. Ping me.
+I do consulting with **Saillent** — AI governance for financial institutions.
 
 ---
 
-<h3 align="left">Let’s Connect:</h3>
-<p align="left">
-  <a href="https://twitter.com/saillentcanada" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saillentcanada" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/saillent" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saillent" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@albochi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@albochi" height="30" width="40" />
-  </a>
-</p>
+## 🔍 Real World & Side Projects
+
+| Project | What |
+|---------|------|
+| **Saillent** | AI governance consultancy for finance |
+| **OSFI E-23 Compliance Framework** | Model risk management for Canadian credit unions |
+| **Shadow AI Detection Toolkit** | Finding hidden models in financial systems |
+| **Coming soon** | AI audit trail system for wealth managers |
 
 ---
 
-<h3 align="left"></h3>
-<p align="left">
-  <!-- Optional icons here -->
-</p>
+> *"We find what your AI hides."*
