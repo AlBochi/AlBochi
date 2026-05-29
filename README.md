@@ -1,6 +1,3 @@
-cd ~/Desktop/AlBochi
-
-cat > README.md << 'ENDOFFILE'
 # Saillent
 
 ### AI Governance Infrastructure for Financial Institutions
@@ -42,8 +39,3 @@ Enterprise AI governance infrastructure for regulated financial institutions —
 ---
 
 *We find what your AI hides — before regulators do.*
-ENDOFFILE
-
-git add .
-git commit -m "Fix GitHub profile formatting with clean markdown"
-git push
