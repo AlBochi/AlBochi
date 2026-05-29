@@ -1,8 +1,12 @@
+cd ~/Desktop/AlBochi 2>/dev/null || git clone https://github.com/AlBochi/AlBochi.git ~/Desktop/AlBochi
+cd ~/Desktop/AlBochi
+
+cat > README.md << 'ENDOFFILE'
 <p align="center">
   <strong>Saillent</strong>
 </p>
 
-<h3 align="center">AI Governance & Model Risk Advisory</h3>
+<h3 align="center">AI Governance Infrastructure for Financial Institutions</h3>
 
 <p align="center">
   Regulated financial institutions. Canada & United States.
@@ -22,24 +26,35 @@
 
 ---
 
-### What We Do
+### What We Build
 
-We help banks, credit unions, and lenders prepare for AI regulatory scrutiny under **OSFI E-23** and **SR 11-7** — from model inventory and Shadow AI detection to board-level governance and audit readiness.
-
----
-
-### Five Tiers. One Framework.
-
-**Model Inventory** → **Risk Assessment** → **Audit Trails** → **Board Governance** → **Training**
+Enterprise AI governance infrastructure for regulated financial institutions — enabling AI visibility, risk classification, audit-ready control environments, and board-level governance operating models. Aligned to OSFI E-23, SR 11-7, and emerging regulatory expectations.
 
 ---
 
-### Regulatory Expertise
+### Governance Operating System
 
-`OSFI E-23` `SR 11-7` `OCC` `SEC` `FDIC` `CFPB` `FINRA` `NCUA` `FCAC` `PIPEDA`
+**Enterprise AI Visibility** → **Risk Classification & Controls** → **Monitoring & Audit Evidence** → **Governance Operating Model** → **Organizational Enablement**
+
+---
+
+### Regulatory Alignment
+
+`OSFI E-23` `SR 11-7` `NIST AI RMF` `OCC` `SEC` `FDIC` `CFPB` `FINRA` `NCUA` `FCAC` `PIPEDA`
+
+---
+
+### Open-Source Tools
+
+[Model Inventory CLI](https://github.com/AlBochi/model-inventory-cli) · [Shadow AI Detector](https://github.com/AlBochi/shadow-ai-detector) · [OSFI E-23 Checklist](https://github.com/AlBochi/osfi-e23-checklist) · [SR 11-7 Readiness](https://github.com/AlBochi/sr11-7-readiness) · [Audit Trail Logger](https://github.com/AlBochi/audit-trail-logger) · [Governance Dashboard](https://github.com/AlBochi/governance-dashboard)
 
 ---
 
 <p align="center">
   <em>We find what your AI hides — before regulators do.</em>
 </p>
+ENDOFFILE
+
+git add .
+git commit -m "Update GitHub profile to match enterprise governance infrastructure positioning"
+git push
