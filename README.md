@@ -1,41 +1,50 @@
-# Saillent
+# SAILLENT 🔐
 
-### AI Governance Infrastructure for Financial Institutions
+**Runtime Security for AI Agents**
 
-Regulated financial institutions. Canada & United States.
+The AI Action Firewall that prevents dangerous actions, prompt injection, and sensitive data exposure.
 
-**saillent.com** | **info@saillent.com**
-
----
-
-### What We Build
-
-Enterprise AI governance infrastructure for regulated financial institutions — enabling AI visibility, risk classification, audit-ready control environments, and board-level governance operating models. Aligned to OSFI E-23, SR 11-7, and emerging regulatory expectations.
+saillent.com | info@saillent.com
 
 ---
 
-### Governance Operating System
+## What We Build
 
-**Enterprise AI Visibility** → **Risk Classification & Controls** → **Monitoring & Audit Evidence** → **Governance Operating Model** → **Organizational Enablement**
+SAILLENT is a zero-trust security layer that sits between your AI agents, your models, and your tools. It intercepts, inspects, enforces, and audits every request in real-time.
 
----
+### AI Action Firewall
+PII Shielding → Prompt Injection Protection → MCP Tool Authorization → Zero-Trust Enforcement → Real-Time Audit & Monitoring
 
-### Regulatory Alignment
+### Core Capabilities
+- **Data Protection** - Automatic PII detection and redaction before reaching external LLMs
+- **Threat Prevention** - Block prompt injection, jailbreak attempts, and indirect attacks
+- **Tool Security** - Zero-trust authorization for MCP tool execution
+- **Complete Visibility** - Real-time dashboard with audit logs and Prometheus metrics
+- **GitOps Policies** - Define security policies in YAML, version control with Git
 
-`OSFI E-23` · `SR 11-7` · `NIST AI RMF` · `OCC` · `SEC` · `FDIC` · `CFPB` · `FINRA` · `NCUA` · `FCAC` · `PIPEDA`
-
----
-
-### Open-Source Tools
-
-[Model Inventory CLI](https://github.com/AlBochi/model-inventory-cli) · [Shadow AI Detector](https://github.com/AlBochi/shadow-ai-detector) · [OSFI E-23 Checklist](https://github.com/AlBochi/osfi-e23-checklist) · [SR 11-7 Readiness](https://github.com/AlBochi/sr11-7-readiness) · [Audit Trail Logger](https://github.com/AlBochi/audit-trail-logger) · [Governance Dashboard](https://github.com/AlBochi/governance-dashboard)
-
----
-
-### Connect
-
-[LinkedIn Company](https://www.linkedin.com/company/saillent/) · [LinkedIn Founder](https://www.linkedin.com/in/albochi/) · [X](https://x.com/SaillentCanada) · [YouTube](https://www.youtube.com/@SaillentCA)
+### Performance
+- **140k decisions/second** policy engine
+- **<10ms** proxy overhead
+- **100%** PII redaction accuracy
+- **30+** attack vectors tested and blocked
 
 ---
 
-*We find what your AI hides — before regulators do.*
+## Technology Stack
+Built with Rust for maximum performance and security:
+- High-performance policy engine (140k decisions/sec)
+- Runtime proxy with streaming support
+- Advanced evasion resistance (Unicode, Base64, Gzip, URL encoding)
+- Real-time monitoring dashboard
+- Docker & Kubernetes deployment
+
+---
+
+## Attack Vectors Blocked
+✓ Prompt Injection (direct, indirect, roleplay, translation)  
+✓ PII Evasion (Unicode, zero-width, combining chars, Base64, Gzip)  
+✓ Tool Obfuscation (full-width Unicode, case variants, whitespace)  
+✓ MCP Attacks (SSRF, path traversal, tool chaining)  
+✓ Resource Exhaustion (large payloads, deep JSON, concurrent requests)  
+✓ Compression Attacks (gzip-encoded PII)  
+✓ Agent Impersonation (header spoofing, empty IDs)  
