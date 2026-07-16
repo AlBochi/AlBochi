@@ -1,4 +1,4 @@
-# SAILLENT 🔐
+# SAILLENT 
 
 **Runtime Security for AI Agents**
 
